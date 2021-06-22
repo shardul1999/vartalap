@@ -36,7 +36,7 @@ onload = function () {
             // generating any random id to add message to the list.
             let idOfMsg = Math.floor(Math.random()*7);
             if(chats.includes(idOfMsg)===false){
-                // if not present in the chats array. this is actually acting as a hashmap in lru cache by
+                // if not present in the chats array. this is actually acting like a hashmap in lru cache by
                 // keeping the note of the data recently called.
                 chats.push(idOfMsg);
             }
