@@ -1,1 +1,1 @@
-# Teletubby-Chat-List
+# Vartalap - A Chat List.
