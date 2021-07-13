@@ -1,19 +1,21 @@
 export { ChatHandler, chat_names}
 
-const chat_names = ["Shivansh Gupta", "Sharvari Rajvanshi", "Vidit Mittal", "Yash Sharma", "Nakul Gupta", "Ishdeep Chadda", "Pradeep G."];
+const chat_names = ["Bansal1","Bansal2","Bansal3","Bansal","Siddy","Karan","Ashwin Rai","Ananya Sharma","Shivansh Gupta", "Sharvari Rajvanshi", "Vidit Mittal", "Yash Sharma", "Nakul Gupta", "Ishdeep Chadda", "Pradeep G."];
 const chat_names_length = chat_names.length;
 const chat_msg = [
-    // "Why didn't he come and talk to me himse...",
-    "Bro, Let's go to Mahesh!",
-    "Bhai fir GPA kam reh gyi yaar",
-    // "Perfect, I am really glad to hear that!...",
-    "Why is she not talking to me?",
-    // "This is what I understand you're telling me..",
-    "yaar mom dad caught me drinking",
-    // "I’m sorry, I don’t have the info on that.."
+     "Why didn't he come and talk to me himse...",
+    "Bro, Let's go to Mahesh!..",
+    "Hey, bro!",
+    "Bhai chai peene chale?",
+    "Bhai fir GPA kam reh gyi yaar..",
+     "Perfect, I am really glad to hear that!...",
+    "Why is she not talking to me?..",
+     "This is what I understand you're telling me..",
+    "yaar mom dad caught me drinking..",
+     "I’m sorry, I don’t have the info on that.."
                                                 ];
 const chat_msg_length = chat_msg.length;
-const chat_img_length = 7;
+const chat_img_length = 4;
 
 class ChatHandler{
 
